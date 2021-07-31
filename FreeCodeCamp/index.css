@@ -1,38 +1,21 @@
-/*#image {
-  max-width: 100%;
-  text-align: center;
-  display: block;
-  
-  ;
- }*/
-/*
+
 body {
-  text-align: 100%;
+  background-image: linear-gradient(to bottom left, #ffd89b, #19547b);
+
+ 
+
 }
-#img-div {
-  text-align: center;
-  display: block;
-  max-width: 100%;
-}*/
-/*
-@media only screen (max-width:742px)
-  body {
-    position: relative;
-    height: auto;
-    width: auto;
-}*/
-body {
-  background-color: black;
-  linear: 
-}
+   
 h1 {
   color: teal;
   text-align: center;
-  font-family: 
+  font-family:'Style Script', cursive;
+  letter-spacing: 5px;
+  font-size: 50px;
 }
 
 figcaption {
-  color: purple;
+  color: black;
   text-align: center;
 }
 p {
@@ -47,4 +30,36 @@ max-width: 742px;
 margin-left: auto;
 margin-right: auto;
 display: block;
+border-radius: 50%;
+  
+ /*Current image settings*/
+ width: 284px;
+  padding: 10px 10px 20px 10px;
+  border: 1px solid white;
+  background-color: grey;
+  box-shadow: 10px 10px 5px light-grey;
+}
+
+.list {
+  font-size: 20px;
+  text-align: left;
+  max-width: 50vw;
+  
+  
+}
+
+.blockquote {
+  color: black;
+    font-size: 40px;
+  font-weight: 30px;
+  font-family: 'Style Script', cursive;
+  letter-spacing: 2px;
+}
+
+#tribute-link {
+  color: orange;
+}
+
+#tribute-info {
+  max-width: 50vw;
 }
