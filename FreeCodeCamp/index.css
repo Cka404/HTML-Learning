@@ -1,0 +1,50 @@
+/*#image {
+  max-width: 100%;
+  text-align: center;
+  display: block;
+  
+  ;
+ }*/
+/*
+body {
+  text-align: 100%;
+}
+#img-div {
+  text-align: center;
+  display: block;
+  max-width: 100%;
+}*/
+/*
+@media only screen (max-width:742px)
+  body {
+    position: relative;
+    height: auto;
+    width: auto;
+}*/
+body {
+  background-color: black;
+  linear: 
+}
+h1 {
+  color: teal;
+  text-align: center;
+  font-family: 
+}
+
+figcaption {
+  color: purple;
+  text-align: center;
+}
+p {
+  color: white;
+  text-align: center;
+}
+
+#image{
+width: 100%;
+height: auto;
+max-width: 742px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
