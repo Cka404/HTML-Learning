@@ -19,8 +19,9 @@ figcaption {
   text-align: center;
 }
 p {
-  color: white;
+  color: black;
   text-align: center;
+  font-size: 22px;
 }
 
 #image{
